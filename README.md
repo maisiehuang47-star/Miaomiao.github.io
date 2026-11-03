@@ -1,2 +1,3 @@
 # Miaomiao.github.io
-About me
+This is a brief intro about me.
+Thanks for reading!
